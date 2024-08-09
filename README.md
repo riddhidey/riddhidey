@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fanimegifs%2Fcomments%2Fkee8xt%2Feven_more_cool_anime_gif_avatars_for_discord_or%2F&psig=AOvVaw3lqfRNoZFQZZ_PAimUE26k&ust=1723304930661000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD-8KCh6IcDFQAAAAAdAAAAABAE"  />
+  <img height="200" src="https://i.redd.it/ovj839o79l561.gif"  />
 </div>
