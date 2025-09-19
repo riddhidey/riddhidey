@@ -1,4 +1,4 @@
-<h2 align="left">Hello World 🌍👋! My name is Riddhi Dey 👨 and I'm a  Student trying to gain knowledge on coding 🧑‍💻</h2>
+<h2 align="left">Hi I am Riddhi Dey </h2>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/59/1d/b2/591db2e0bb7cbff19cba800da63503c6.gif"  />
 
