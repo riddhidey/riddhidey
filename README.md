@@ -14,9 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riddhi dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi dey" height="30" width="40" /></a>
-<a href="https://fb.com/riddhi dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riddhi dey" height="30" width="40" /></a>
-<a href="https://instagram.com/@notyour__riddhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@notyour__riddhi" height="30" width="40" /></a>
-<a href="https://discord.gg/RONNEX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RONNEX" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
